@@ -1,7 +1,7 @@
--- Workout-Tracker
+- Workout-Tracker
 
-a simple app that uses noSQL database to track and review workouts.
+An app that uses noSQL database to track and record workouts.
 
---- Deployed Link
-
+- Deployed Link
+https://enigmatic-forest-33269.herokuapp.com/
 
